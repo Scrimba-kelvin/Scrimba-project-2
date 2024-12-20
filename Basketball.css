@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #1B244A;
+  width: 575px;
+  height: 385px;
+  top: -678px;
+  left: -1996px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 30px auto 0px;
+}
+
+h3 {
+  color: #EEEEEE;
+  font-family: Verdana;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 35.89px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.first {
+  margin-right: 30px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.second {
+  margin-right: 30px;
+  text-align: center;
+}
+
+.background {
+  width: 155px;
+  height: 120px;
+  top: 125px;
+  left: 82px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  background-color: black;
+}
+
+p {
+  width: 117px;
+  height: 120px;
+  top: 125px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+  color: #F94F6D;
+  font-family: Cursed Timer ULiL;
+  font-size: 90px;
+  font-weight: 400;
+  line-height: 126.67px;
+  text-align: end;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+button {
+  background: none;
+  width: 45px;
+  height: 45px;
+  top: 271px;
+  left: 82px;
+  gap: 0px;
+  border: 2px solid #9AABD8;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  margin-top: 20px;
+  color: #9AABD8;
+}
